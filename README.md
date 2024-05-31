@@ -51,7 +51,7 @@ A complex object containing a sub-object, which in turn contains an array of num
   "year of production": 2014,
   "processor": {
                 "manufacturer": "EsseTi",
-                "operating speed (GHz)": [1, 2, 4, 8]
+                "operating speed (GHz)": [1, 2, 4, 8, 16]
                }
 }
 ```
